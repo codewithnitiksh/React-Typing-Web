@@ -1,4 +1,4 @@
-Here's a `README.md` file for your React Typing Test app. This README provides an overview of the project, its features, and instructions on how to get started.
+`Welcome`
 
 # React Typing Test
 
