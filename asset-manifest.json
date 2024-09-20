@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Typing-Web/static/css/main.3723dae9.css",
+    "main.js": "/React-Typing-Web/static/js/main.09570515.js",
+    "static/js/453.fab7e5e7.chunk.js": "/React-Typing-Web/static/js/453.fab7e5e7.chunk.js",
+    "index.html": "/React-Typing-Web/index.html",
+    "main.3723dae9.css.map": "/React-Typing-Web/static/css/main.3723dae9.css.map",
+    "main.09570515.js.map": "/React-Typing-Web/static/js/main.09570515.js.map",
+    "453.fab7e5e7.chunk.js.map": "/React-Typing-Web/static/js/453.fab7e5e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3723dae9.css",
+    "static/js/main.09570515.js"
+  ]
+}
