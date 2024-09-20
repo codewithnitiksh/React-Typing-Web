@@ -72,5 +72,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 Happy typing!
 ```
-
-Feel free to adjust any sections according to your preferences or add additional details about the app.
