@@ -21,53 +21,10 @@ Welcome to the React Typing Test application! This project is designed to help u
 - **Lucide React:** For vector icons.
 
 ## Getting Started
-
-To get started with this project, follow the instructions below:
-
-### Prerequisites
-
-Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
-
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/codewithnitiksh/React-Typing-Web.git
-   cd React-Typing-Web
    ```
-
-2. **Install Dependencies:**
-
-   ```bash
-   npm install
+   [git clone https://github.com/codewithnitiksh/React-Typing-Web.git
+   cd React-Typing-Web](https://codewithnitiksh.github.io/React-Typing-Web/)
    ```
-
-3. **Start the Development Server:**
-
-   ```bash
-   npm start
-   ```
-
-   The app will be available at `http://localhost:3000`.
-
-### Usage
-
-1. Open the app in your browser.
-2. Click the "Start Game" button to begin typing the provided paragraph.
-3. Type as quickly and accurately as possible.
-4. View your results in the modal that appears when the game is over.
-
-### Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request with a description of your changes.
-
 ---
 
 Happy typing!
