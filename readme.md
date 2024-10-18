@@ -21,8 +21,9 @@ Welcome to the React Typing Test application! This project is designed to help u
 - **Lucide React:** For vector icons.
 
 ## Getting Started
-   [git clone https://github.com/codewithnitiksh/React-Typing-Web.git
-   cd React-Typing-Web](https://codewithnitiksh.github.io/React-Typing-Web/)
+  ---
+https://codewithnitiksh.github.io/React-Typing-Web/
+  ---
 ---
 
 Happy typing!
